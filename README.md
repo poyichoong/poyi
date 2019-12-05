@@ -2,4 +2,4 @@
 student
 
 # ey
-architect
+Copy all your source codes into this folder.
